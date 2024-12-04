@@ -7,17 +7,12 @@ date: 2024-12-04
 
 _Worlds best chocolate chips cookies_
 
-<img src=https://github.com/darth_ctrayn/passmore-food/blob/main/images/cookie.jpg?raw=true alt="Chocolate Chip Cookie">
+![Chocolate Chip Cookie](cookie.jpg)
 
 ## Setup
 Preheat the oven to 375 F.
 
 ## Ingredients
-
-<label class="container">One
-  <input type="checkbox" checked="checked">
-  <span class="checkmark"></span>
-</label>
 
 <input type="checkbox"/> 1/2 c Butter, softened
 
