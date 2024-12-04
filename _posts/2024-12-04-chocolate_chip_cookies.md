@@ -14,6 +14,11 @@ Preheat the oven to 375 F.
 
 ## Ingredients
 
+<label class="container">One
+  <input type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+
 <input type="checkbox"/> 1/2 c Butter, softened
 
 <input type="checkbox"/> 1/2 c Shortening
