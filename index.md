@@ -3,4 +3,4 @@ title: All recipes
 ---
 
 
-![Chocolate Chip Cookies](_posts/2024-12-04-chocolate_chip_cookies.md)
+<a href="https://darth_ctrayn.github.io/passmore-food/cookies">Chocolate Chip Cookies</a>
