@@ -3,11 +3,9 @@ title: "Chcolate Chip Cookies"
 date: 2024-12-04
 ---
 
-<header>
-
 # Chocolate Chip Cookie
 
-</header>
+_Worlds best chocolate chips cookies_
 
 ![Chocolate Chip Cookie](https://github.com/darth_ctrayn/passmore-food/blob/main/images/cookie.jpg?raw=true)
 
@@ -15,17 +13,17 @@ date: 2024-12-04
 Preheat the oven to 375 F.
 
 ## Ingredients
-- [ ] 1/2 c Butter, softened
-- [ ] 1/2 c Shortening
-- [ ] 1 c Brown Sugar
-- [ ] 1/2 c Sugar
-- [ ] 2 Eggs
-- [ ] 1 tsp Salt
-- [ ] 1 tsp Baking Soda
-- [ ] 1 tsp Baking Powder
-- [ ] 2 1/2 c Flour
-- [ ] 1 tsp Vanilla
-- [ ] 1/2 Bag of chocolate chips
+- <input type="checkbox"/> 1/2 c Butter, softened
+- <input type="checkbox"/> 1/2 c Shortening
+- <input type="checkbox"/> 1 c Brown Sugar
+- <input type="checkbox"/> 1/2 c Sugar
+- <input type="checkbox"/> 2 Eggs
+- <input type="checkbox"/> 1 tsp Salt
+- <input type="checkbox"/> 1 tsp Baking Soda
+- <input type="checkbox"/> 1 tsp Baking Powder
+- <input type="checkbox"/> 2 1/2 c Flour
+- <input type="checkbox"/> 1 tsp Vanilla
+- <input type="checkbox"/> 1/2 Bag of chocolate chips
 
 ## Steps
 Dissolve the baking soda in just enough water, then mix together all ingredients except flour and chocolate chips. Mix until there are no chunks or bumps, I usually put a Kitchen Aid on medium for two minutes. Add in flour then chocolate chips.
