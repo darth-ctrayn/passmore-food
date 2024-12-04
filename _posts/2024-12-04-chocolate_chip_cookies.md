@@ -1,6 +1,8 @@
 ---
 title: "Chcolate Chip Cookies"
 date: 2024-12-04
+permalink: /cookies
+
 ---
 
 # Chocolate Chip Cookie
@@ -10,7 +12,7 @@ _Worlds best chocolate chips cookies_
 ![Chocolate Chip Cookie](cookie.jpg)
 
 ## Setup
-Preheat the oven to 375 F.
+Preheat the oven to 375&deg; F.
 
 ## Ingredients
 
