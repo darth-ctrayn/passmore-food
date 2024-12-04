@@ -1,4 +1,4 @@
 ---
-title: Chocolate chip cookies
+title: Index
 ---
 
