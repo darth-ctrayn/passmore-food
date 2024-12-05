@@ -2,7 +2,6 @@
 title: "Chcolate Chip Cookies"
 date: 2024-12-04
 permalink: /cookies
-
 ---
 
 # Chocolate Chip Cookie
@@ -16,7 +15,7 @@ Preheat the oven to 375&deg; F.
 
 ## Ingredients
 
-<input type="checkbox"/> 1/2 c Butter, softened
+<input type="checkbox"> 1/2 c Butter, softened </input>
 
 <input type="checkbox"/> 1/2 c Shortening
 
@@ -32,9 +31,9 @@ Preheat the oven to 375&deg; F.
 
 <input type="checkbox"/> 1 tsp Baking Powder
 
-<input type="checkbox"/> 2 1/2 c Flour
-
 <input type="checkbox"/> 1 tsp Vanilla
+
+<input type="checkbox"/> 2 1/2 c Flour
 
 <input type="checkbox"/> 1/2 Bag of chocolate chips
 
