@@ -1,1 +1,1 @@
-![homepage](https://darth-ctrayn.github.io/passmore-food/)
+<a href="https://darth-ctrayn.github.io/passmore-food/">Homepage</a>
