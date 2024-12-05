@@ -8,7 +8,7 @@ permalink: /cookies
 
 _Worlds best chocolate chips cookies_
 
-<!-- ![Chocolate Chip Cookie](cookie.jpg) -->
+![Chocolate Chip Cookie](https://img.freepik.com/free-psd/baking-delicious-chocolate-chip-cookies-isolated-transparent-background_191095-16880.jpg)
 
 ## Setup
 Preheat the oven to 375&deg; F.
