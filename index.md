@@ -2,8 +2,8 @@
 title: All recipes
 ---
 
-<a href="https://darth-ctrayn.github.io/passmore-food/cookies">Chocolate Chip Cookies</a>
-
-<a href="https://darth-ctrayn.github.io/passmore-food/pancakes">Fluffy Pancakes</a>
-
-<a href="https://darth-ctrayn.github.io/passmore-food/biscuits">Biscuits</a>
+<ul>
+{% for post in site.posts %}
+	<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
