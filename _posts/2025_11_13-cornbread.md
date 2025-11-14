@@ -1,3 +1,9 @@
+---
+title: "Cornbread"
+date: 2025-11-13
+permalink: /cornbread
+---
+
 # Cornbread
 ---
 
